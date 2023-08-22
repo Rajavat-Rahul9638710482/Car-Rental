@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Car-Rental/static/css/main.ed21b331.css",
+    "main.js": "/Car-Rental/static/js/main.725e2980.js",
+    "static/js/787.8d6b93c0.chunk.js": "/Car-Rental/static/js/787.8d6b93c0.chunk.js",
+    "static/media/big1.jpg": "/Car-Rental/static/media/big1.1b2ee46745f87c8cd0aa.jpg",
+    "static/media/slide_2.jpg": "/Car-Rental/static/media/slide_2.3b7e37622e96975158ca.jpg",
+    "static/media/slide_3.jpg": "/Car-Rental/static/media/slide_3.b83c14c0ad3c144942ee.jpg",
+    "static/media/slide_1.jpg": "/Car-Rental/static/media/slide_1.98629c65cf2a20881167.jpg",
+    "static/media/page3_img1.jpg": "/Car-Rental/static/media/page3_img1.f297c730bb6d34ac03af.jpg",
+    "static/media/page4_img6.jpg": "/Car-Rental/static/media/page4_img6.e3232514115a2f6d2ecc.jpg",
+    "static/media/page4_img4.jpg": "/Car-Rental/static/media/page4_img4.46631fb27e7f7cc81a86.jpg",
+    "static/media/page4_img8.jpg": "/Car-Rental/static/media/page4_img8.c704339c6c231382b6c0.jpg",
+    "static/media/page1_img1.jpg": "/Car-Rental/static/media/page1_img1.6847e173b0dff465a598.jpg",
+    "static/media/page3_img3.jpg": "/Car-Rental/static/media/page3_img3.9bcf03fc9fdeda2813bc.jpg",
+    "static/media/page1_img3.jpg": "/Car-Rental/static/media/page1_img3.72c07b824af3d4375290.jpg",
+    "static/media/page4_img7.jpg": "/Car-Rental/static/media/page4_img7.59e20ea5be1849320be6.jpg",
+    "static/media/page4_img9.jpg": "/Car-Rental/static/media/page4_img9.67b7a6bda4684dbcc53e.jpg",
+    "static/media/page4_img1.jpg": "/Car-Rental/static/media/page4_img1.a706088a49dfbd5d5ee7.jpg",
+    "static/media/page4_img3.jpg": "/Car-Rental/static/media/page4_img3.50ba7bd4301576293aa5.jpg",
+    "static/media/page2_img1.jpg": "/Car-Rental/static/media/page2_img1.4c9ab3e3041fe157f778.jpg",
+    "static/media/page4_img5.jpg": "/Car-Rental/static/media/page4_img5.2194954d7593ec426a09.jpg",
+    "static/media/page1_img2.jpg": "/Car-Rental/static/media/page1_img2.38a0e2b8e1c750bc8858.jpg",
+    "static/media/page4_img2.jpg": "/Car-Rental/static/media/page4_img2.db4ad5531fad8084e4a2.jpg",
+    "static/media/page3_img2.jpg": "/Car-Rental/static/media/page3_img2.3d34a1135740505c5256.jpg",
+    "static/media/logos.png": "/Car-Rental/static/media/logos.c6f661a72a17ca2156f6.png",
+    "index.html": "/Car-Rental/index.html",
+    "main.ed21b331.css.map": "/Car-Rental/static/css/main.ed21b331.css.map",
+    "main.725e2980.js.map": "/Car-Rental/static/js/main.725e2980.js.map",
+    "787.8d6b93c0.chunk.js.map": "/Car-Rental/static/js/787.8d6b93c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed21b331.css",
+    "static/js/main.725e2980.js"
+  ]
+}
